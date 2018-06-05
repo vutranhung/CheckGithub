@@ -15,7 +15,7 @@ namespace CheckGithub.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "xyz Your application description page.";
+            ViewBag.Message = "123 Your application description page.";
 
             return View();
         }
